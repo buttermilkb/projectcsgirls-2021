@@ -1,0 +1,24 @@
+7/22/2021:
+
+Welcome to the second class of ProjectCSGirls 2021!
+
+Today is focused on getting set up and learning very simple navigation.
+Let's put some of our new skills to use!
+Remember: you can call me into your breakout room if you need help.
+
+Some commands to keep in mind for today:
+ls - list
+cd - change directories
+pwd - print working directory
+
+Exercise 1:
+What directory is this file (instructions.txt) located in?
+
+Exercise 2:
+Poke around the directories a bit inside the family directory. Which directory is the file "water-bottle" located in?
+
+Exercise 3:
+Which directory is the file "cup" located in?
+
+Exercise 4:
+Count how many grandchildren directories you see. How many are there?
