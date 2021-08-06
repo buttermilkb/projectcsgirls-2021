@@ -1,0 +1,46 @@
+8/5/2021:
+
+So far we've learned how to successfully navigate a filesystem
+using Unix commands. We've also learned how to create, edit, 
+and read these files. Now, we just learned some things we can
+ do with these files.
+
+Today, I will have you all perform a series of commands on the
+files and directories located in the august-5 directory.
+
+Some commands to keep in mind for today:
+mv - move file
+rm - remove file
+mkdir - make directory
+rmdir - remove empty directory
+
+Exercise 1:
+Looks like you accidentally misplaced an email called back2school!
+Yikes, it's pretty important. Try to find it and put it in your school
+category of your inbox!
+
+Exercise 2:
+Your teachers send you emails about assignments, but they clutter up
+your school inbox a lot. You might want to organize a bit...
+Make 3 different directories inside your school inbox called math, science,
+and English.
+
+Exercise 3:
+Now that you've got your new categories, move the emails corresponding
+to the correct tag inside your school inbox into the math, science, or 
+English categories!
+Hint: not all emails inside the school inbox will go into one of the 
+subcategories.
+
+Exercise 4:
+There's been someone emailing your nonstop about how much they love you, 
+but you have no idea who they are! Nor do you know why they keep ending
+up in your school inbox. Move this email to the trash directory.
+
+Exercise 5:
+Looks like you won't be needing party-at-daniel anymore, it's already
+happened a while ago! Move it into the trash directory.
+
+Exercise 6:
+Whew! That's a lot of emails in your trash directory. Let's empty that
+out. Remove all the files inside your trash directory. 
