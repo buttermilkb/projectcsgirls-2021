@@ -1,0 +1,51 @@
+8/12/2021:
+
+Congratulations on completing the last class of the
+summer term for ProjectCSGirls 2021 Oregon Chapter!
+
+Over the course of these 5 weeks, you have not only
+configured your device to be able to support a terminal,
+but you have also learned a couple basic commands that
+will help you navigate your filesystem (and you will
+also look super cool doing it as well).
+
+Just to be completely clear, you have accomplished something
+BIG. Most computer science students don't learn this until
+college or maybe even the industry. As middle schoolers,
+you are leading the pack!
+
+To briefly review, we have learned how to use:
+- ls
+- cd
+- pwd
+- cat
+- head
+- tail
+- nano
+- touch
+- mv
+- rm
+- mkdir
+- rmdir
+... and many more!
+
+Today is mostly tying up loose ends. We learned how to
+copy files, and how to use the man command.
+
+Some commands to keep in mind:
+cp - copy files
+man - open manual to a command
+
+Exercise 1:
+Return to the august-5 directory and finish the exercises
+that you have not completed.
+
+Exercise 2:
+In the inbox directory of august-5, notice there is school party
+in the school directory? Make a copy of that file and transfer it
+into social as well.
+
+Exercise 3:
+Open the manuals to the commands rm and cp, which tag do you notice
+we covered in class?
+
